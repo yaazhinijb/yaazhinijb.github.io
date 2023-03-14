@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Major+Mono+Display&family=Titillium+Web:wght@300&display=swap');
+
+html,
+body,
+#root,
+.app{
+  height: 100%;
+  width: 100%;
+  font-family: "Cinzel Decorative", sans-serif;
+}
